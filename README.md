@@ -35,4 +35,6 @@ python sms.py یا python amir.py
 
 
 python amir.py 
+
 python sms.py
+
