@@ -33,3 +33,6 @@ python sms.py یا python amir.py
 
 تاکید میکنم فقط به عنوان یک علم یاد بگیرید در کار های غیر اخلاقی استفاده نکنید 
 
+
+python amir.py 
+python sms.py
